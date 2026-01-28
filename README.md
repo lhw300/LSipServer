@@ -23,7 +23,7 @@ call center platforms.
 - SIP signaling, registration, and session management
 - Java-based SIP server and softswitch architecture
 - Apache Tomcat–based web container
-- Modified NIST JAIN-SIP reference implementation with bug fixes(by Harvey Liu)
+- Modified NIST JAIN-SIP reference implementation with bug fixes(by Harvey Liu),original project: https://github.com/usnistgov/jsip
 - RTP relay support for SIP proxy and NAT/private network scenarios
 - Practical, production-oriented design based on real-world deployments
 
