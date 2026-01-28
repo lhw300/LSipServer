@@ -41,7 +41,7 @@ connectivity is not available.
 
  
 ## Availability (Free Edition)
-LSipServer is available as a free edition provided by LCALL for
+LSipServer is available as a free edition provided by LCALL (xiaolinghu) for
 evaluation and internal use.
 
 ## Download:
