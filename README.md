@@ -19,11 +19,17 @@ and web-based management components, making it suitable for both
 standalone SIP server deployments and integration into larger
 call center platforms.
 
+## My Role
+
+I am the sole developer responsible for the architecture, SIP/RTP implementation, 
+and bug fixing, optimization of this product.
+
 ## Technical Focus
 - SIP signaling, registration, and session management
 - Java-based SIP server and softswitch architecture
 - Apache Tomcat–based web container
-- Modified NIST JAIN-SIP reference implementation with bug fixes(by Harvey Liu),original project: https://github.com/usnistgov/jsip
+- Modified NIST JAIN-SIP reference implementation with bug fixes(by Harvey Liu),
+  original project: https://github.com/usnistgov/jsip
 - RTP relay support for SIP proxy and NAT/private network scenarios
 - Practical, production-oriented design based on real-world deployments
 
@@ -33,17 +39,21 @@ the SIP proxy operates in private or NATed network environments. This allows
 media streams to be properly relayed between endpoints when direct RTP
 connectivity is not available.
 
-## Download
-Please download the binary distribution from the Releases page.
+ 
+## Availability (Free Edition)
+LSipServer is available as a free edition provided by LCALL for
+evaluation and internal use.
+
+## Download:
+https://<your-download-link-here>
 
 ## License
 This product is distributed as a binary-only package.
 Third-party license information is included in the distribution archive.
 
 ## Author
-LSipServer is developed and maintained by:
-
 **Harvey Liu**  
+Sole Developer
 Email: **lhw300@163.com**
 
 Harvey has many years of hands-on experience in SIP, softswitch, RTP/media
