@@ -10,7 +10,7 @@ requirements in real-world VoIP and contact center environments.
 ## Overview
 LSipServer is implemented in Java and built on a standards-compliant
 JAIN-SIP stack. The SIP stack is based on the NIST (usnistgov) JAIN-SIP
-reference implementation, with selected bug fixes and stability improvements
+reference implementation, with selected bug fixes  and stability improvements
 applied for production use. The modified JAIN-SIP binaries are included
 in the released distribution.
 
@@ -23,7 +23,7 @@ call center platforms.
 - SIP signaling, registration, and session management
 - Java-based SIP server and softswitch architecture
 - Apache Tomcat–based web container
-- Modified NIST JAIN-SIP reference implementation with bug fixes
+- Modified NIST JAIN-SIP reference implementation with bug fixes(by Harvey Liu)
 - RTP relay support for SIP proxy and NAT/private network scenarios
 - Practical, production-oriented design based on real-world deployments
 
