@@ -48,8 +48,15 @@ evaluation and internal use.
 https://<your-download-link-here>
 
 ## License
+LSipServer is free to download and use, including for commercial purposes.
+Redistribution of the original binary package is permitted.
+
+The software is provided as-is and may not be reverse engineered or modified.
+Third-party components are subject to their own licenses, which are included in the distribution archive.
+See LICENSE and NOTICE for details.
+
 This product is distributed as a binary-only package.
-Third-party license information is included in the distribution archive.
+
 
 ## Author
 **Harvey Liu**  
