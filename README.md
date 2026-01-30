@@ -45,7 +45,7 @@ LSipServer is available as a free edition provided by LCALL (xiaolinghu) for
 evaluation and internal use.
 
 ## Download:
-https://<your-download-link-here>
+http://www.it9000.cn/file/lsip.zip   (windows)
 
 ## License
 LSipServer is free to download and use, including for commercial purposes.
